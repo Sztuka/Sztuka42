@@ -1,0 +1,36 @@
+.color-2,.navbar .brand h1,.feature-icon, .read, .get-purchase li a:hover, .description .address li,.bullerBr i,.sub-social li a,.list-3 li:before, .widget-right.widget_recent_post li :before,code,.icon,.feat1 a, .link,li.left,.feat2:hover .circle-2,.button_regular:hover,.inner-filters li.active a,.inner-filters li:hover a,.look:hover{ color: #78be20; }
+.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus{ background: url(../../img/green.png) no-repeat scroll 50% bottom; background-color: #e7eef8;}
+.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu > li > a:hover,.feature-box:hover .feature-icon, .feature-box:hover .read,ul.work li:hover .post,.progress .bar, .about, .widget_tags li a, .feature-box:hover .feature-icon, .feature-box:hover .read, .caption li, .btn-block, .btn-block:hover,.about-icon,.feature-box:hover li,.blog:hover .description,.launch,#contact .contact li i,#map i,.button,.caption li:hover,.windows8 .wBall .wInnerBall,.filterable-item .hover-wrap .overlay-img,.navbar .brand h1:hover,.navbar .brand:hover h1,.border .brand h1,.inner-filters li,.filterable-item figcaption { background: #78be20; }
+.flex-direction-nav a,.camera_prev:hover, .camera_next:hover, .camera_commands:hover,.premium .plan-price, .premium .plan-features a.button:hover,.circle-2 ,.carousel-control:hover,.purchase,#sub-nav{ background-color: #78be20; }
+.hovercontent{ background: rgba(120, 190, 32, 0.2); }
+.feature-box:hover .feature-icon, .feature-box:hover .read,.border,.caption,.caption li,.testimonial,.progress .bar,.about-icon,.feature-box:hover .team-img,.sub-social li,.comment-body:hover,.commentlists .comment-children:before,#map i,blockquote,.button,.info-block,.right:hover, .widget_tags li a:hover,.camera_prev:hover, .camera_next:hover, .camera_commands:hover,.carousel-control.left:hover,.carousel-control.left:hover,.navbar .brand h1,.widget_tags li a,.inner-filters li{ border-color: #78be20; }
+.comment-body:hover:before,.right:hover:before{ 
+	border-top: 9px solid transparent;
+	border-bottom: 9px solid transparent;
+	border-right: 11px solid #78be20;
+}
+ul.work li:hover .post,.blog:hover .description{ border-color: #528314 }
+.navbar .nav>li>a:hover, .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus
+{
+	box-shadow: 0px -3px 0px #78be20 inset;
+	-moz-box-shadow: 0px -3px 0px #78be20 inset;
+	-webkit-box-shadow: 0px -3px 0px #78be20 inset;
+}
+#f-accordion .ui-accordion-header-active, #f-accordion .ui-accordion-header-active span, .nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus,.accordion-heading:hover .accordion-toggle, .accordion-heading:hover .accordion-toggle.inactive,.accordion-heading .accordion-toggle.active,.nav > li > a:hover, .nav > li > a:focus
+{
+	box-shadow: 0px 5px 0px #78be20 inset;
+	-moz-box-shadow: 0px 5px 0px #78be20 inset;
+	-webkit-box-shadow: 0px 5px 0px #78be20 inset;
+}
+.feature-box:hover .box-content{ 
+	box-shadow: 0px 5px 0px #78be20 inset, 0px -5px 0px #78be20 inset;
+	-moz-box-shadow: 0px 5px 0px #78be20 inset, 0px -5px 0px #78be20 inset;
+	-webkit-box-shadow: 0px 5px 0px #78be20 inset, 0px -5px 0px #78be20 inset;
+}
+.testimonial {
+	box-shadow: 0px 5px 0px #78be20 inset, 0 0 10px #ccc;
+	-moz-box-shadow: 0px 5px 0px #78be20 inset, 0 0 10px #ccc;
+	-webkit-box-shadow: 0px 5px 0px #78be20 inset, 0 0 10px #ccc;
+}
+.border .nav>.active>a, .border .nav>.active>a:hover, .border .nav>li>a:hover { box-shadow: none; }
+.border .brand h1{ color: #fff; }
