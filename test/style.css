@@ -1159,6 +1159,32 @@ a {
 .dodatkowe .item::before {
     content: "•";
     color: #ec6806;
+}
+
+.akademia {
+    font-family: Lato, Sans-Serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: white;
+    text-transform: none;
+    padding-top: 80px;
+}
+
+.akademia2 {
+    font-family: Lato, Sans-Serif;
+    font-size: 18px;
+    color: #ec6806;
+    text-transform: none;
+
+}
+
+.akademia-title {
+    font-size: 18px;
+
+}
+
+
+
 
 /* ========================================================================== */
 /* ========================================================================== */
@@ -1385,10 +1411,10 @@ a {
 }
 
 
-}
+
 
 /*.brak-marginesu {*/
     /*margin-bottom: 0px !important;*/
 /*}*/
 
-}
+
