@@ -768,7 +768,7 @@
 	color: #0076be;
 	letter-spacing: 0.18px;
 	font-family: 'Raleway', sans-serif;
-	font-weight: 800;
+	font-weight: 600;
     /*font-style: italic;*/
 	display: inline-block;
 	line-height: 28px;
@@ -820,9 +820,9 @@
 	/*margin-bottom: 25px;*/
 	display: inline-block;
 }
-.schedule-block .panel-default .panel-body  p{
+.schedule-block .panel-default .panel-body p{
 	color: #777;
-	font-size: 16px;
+	font-size: 19px;
 	letter-spacing: -0.5px;
 	font-style: italic;
 	line-height: 30px;
@@ -1463,9 +1463,9 @@
 }
 .latest-blog .type-post .entry-content p {
 	color: #777;
-	font-size: 15px;
+	font-size: 20px;
 	line-height: 28px;
-	letter-spacing: 0.45px;
+	/*letter-spacing: 0.45px;*/
 	font-family: 'Work Sans', sans-serif;
 }
 .latest-blog .type-post .learn-more {
@@ -2385,9 +2385,9 @@
 .ow-pagination .pager li > a,
 .ow-pagination .pager li > span {
 	border-radius: 0;
-	color: #222;
+	color: #0076be;
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 16px;
 	letter-spacing: 0.91px;
 	border: none;
 	padding: 0;
@@ -2401,10 +2401,10 @@
 	color: #0076be;
 }
 .ow-pagination .pager .fa-th {
-	font-size: 14px;
+	font-size: 17px;
 }
 .ow-pagination  a i{
-	font-size: 15px;
+	font-size: 20px;
 }
 .ow-pagination .page-prv a i{
 	margin-right: 6px;
@@ -3176,7 +3176,7 @@
 		margin-left: 85px;
 	}
 	.schedule-block .panel-default .panel-body p {
-		font-size: 15px;
+		font-size: 18px;
 	}
 	.schedule-block .panel-default .panel-body .author-content h3 {
 		font-size:  14px;
@@ -3490,7 +3490,7 @@
 		margin-left: 90px;
 	}
 	.schedule-block .panel-default .panel-body p {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.schedule-block .panel-default .panel-body .author-content h3 {
 		font-size:  14px;
@@ -3594,7 +3594,7 @@
 		display: block;
 	}
 	.latest-blog .type-post .entry-content p {
-		font-size: 13px;
+		font-size: 15px;
 		letter-spacing: 0;
 		line-height: 25px;
 	}
@@ -4215,7 +4215,7 @@
 		font-size: 14px;
 	}
 	.schedule-block .panel-default .panel-body p {
-		font-size: 13px;
+		font-size: 16px;
 		line-height: 27px;
 	}
 	.schedule-block .panel-default .panel-body .author-content .btn-event {
@@ -4539,7 +4539,7 @@
 	}
 	.ow-pagination .pager li > a,
 	.ow-pagination .pager li > span {
-		font-size: 12px;
+		font-size: 20px;
 		letter-spacing: 0.5px;
 	}
 	.recent-content > a {

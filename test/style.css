@@ -1172,7 +1172,7 @@ a {
 
 .akademia2 {
     font-family: Lato, Sans-Serif;
-    font-size: 18px;
+    font-size: 34px;
     color: #ec6806;
     text-transform: none;
 
@@ -1180,6 +1180,8 @@ a {
 
 .akademia-title {
     font-size: 18px;
+    color: #0076be;
+    font-weight: 600;
 
 }
 
