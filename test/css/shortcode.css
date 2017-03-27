@@ -2510,7 +2510,7 @@
 	width: 37px;
 }
 .upcoming-event.latest-blog .post-location {
-	text-transform: capitalize;
+	text-transform: none;
 	color: #777;
 	font-size: 13px;
 	padding-left: 16px;
@@ -2557,7 +2557,7 @@
 }
 .eventlist.upcoming-event.latest-blog .type-post .entry-title a,
 .eventlist.upcoming-event.latest-blog .type-post .entry-title h3 {
-	font-size: 18px;
+	font-size: 22px;
 	text-transform: uppercase;
 	margin-top: 0;
 }
@@ -2722,7 +2722,7 @@
 	margin-right: 0;
 }
 .eventsingle .schedule-section {
-	margin-top: 12px;
+	/*margin-top: 12px;*/
 }
 .eventsingle .schedule-section .section-header {
 	margin-bottom: 20px;
@@ -3735,7 +3735,7 @@
 	}
 	.eventlist.upcoming-event.latest-blog .type-post .entry-title a,
 	.eventlist.upcoming-event.latest-blog .type-post .entry-title h3 {
-		font-size: 15px;
+		font-size: 20px;
 	}
 	.eventlist.upcoming-event.latest-blog .post-date {
 		font-size: 12px;
@@ -4098,7 +4098,7 @@
 	}
 	.our-history.upcoming-event.latest-blog .type-post .entry-title a,
 	.our-history.upcoming-event.latest-blog .type-post .entry-title h3 {
-		font-size: 15px;
+		font-size: 18px;
 		letter-spacing: 0;
 	}	
 	

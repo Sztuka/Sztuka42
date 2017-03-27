@@ -119,6 +119,7 @@ a {
 .section-padding {
 	padding-top: 20px;
 	padding-bottom: 20px;
+    border-bottom: 1px solid #a3a3a3;
 }
 
 /* - Block Title */
@@ -1179,7 +1180,7 @@ a {
 }
 
 .akademia-title {
-    font-size: 18px;
+    font-size: 24px;
     color: #0076be;
     font-weight: 600;
 
