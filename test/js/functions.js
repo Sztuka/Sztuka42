@@ -359,7 +359,7 @@
 		}
 	});
 
-
+    document.body.innerHTML = document.body.innerHTML.replace(/\s(\w)\s/g, ' $1&nbsp;').replace(/(dr|prof\.)\s/gi, '$1&nbsp;');
 
 	$(".panel-default").on("click", function() {
         var body=$(this).find(".panel-body");
