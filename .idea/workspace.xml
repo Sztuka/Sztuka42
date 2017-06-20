@@ -2,7 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fefa47da-e744-48b7-942f-6605cf6988cd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/contact.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/about.jpg" afterPath="$PROJECT_DIR$/assets/images/about.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/about2.jpg" afterPath="$PROJECT_DIR$/assets/images/about2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/camera-loader.gif" afterPath="$PROJECT_DIR$/assets/images/camera-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/camera_skins.png" afterPath="$PROJECT_DIR$/assets/images/camera_skins.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/img2.png" afterPath="$PROJECT_DIR$/assets/images/img2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/btnNext.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/contentPattern.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/contentPattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/default_thumb.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/default_thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_next.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_prev.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_x.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_y.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/default/sprite_y.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/btnNext.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/btnPrevious.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/facebook/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/btnNext.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/btnNext.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/btnPrevious.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/loader.gif" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/sprite.png" afterPath="$PROJECT_DIR$/assets/images/prettyPhoto/light_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/1.jpg" afterPath="$PROJECT_DIR$/assets/images/slides/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/3.jpg" afterPath="$PROJECT_DIR$/assets/images/slides/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/Thumbs.db" afterPath="$PROJECT_DIR$/assets/images/slides/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/bg1.png" afterPath="$PROJECT_DIR$/assets/images/slides/bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/bg2.png" afterPath="$PROJECT_DIR$/assets/images/slides/bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/bg3.png" afterPath="$PROJECT_DIR$/assets/images/slides/bg3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/bg4.png" afterPath="$PROJECT_DIR$/assets/images/slides/bg4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/image.png" afterPath="$PROJECT_DIR$/assets/images/slides/image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/iphone.png" afterPath="$PROJECT_DIR$/assets/images/slides/iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/mobile.png" afterPath="$PROJECT_DIR$/assets/images/slides/mobile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/mobile1.png" afterPath="$PROJECT_DIR$/assets/images/slides/mobile1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/slider-item-1.png" afterPath="$PROJECT_DIR$/assets/images/slides/slider-item-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/slider-item-2.png" afterPath="$PROJECT_DIR$/assets/images/slides/slider-item-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slides/slider-item-4.png" afterPath="$PROJECT_DIR$/assets/images/slides/slider-item-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/accordion-close.png" afterPath="$PROJECT_DIR$/assets/img/accordion-close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/accordion-open.png" afterPath="$PROJECT_DIR$/assets/img/accordion-open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/alizarin.png" afterPath="$PROJECT_DIR$/assets/img/alizarin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/banner.png" afterPath="$PROJECT_DIR$/assets/img/banner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/bg.png" afterPath="$PROJECT_DIR$/assets/img/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/blue.PNG" afterPath="$PROJECT_DIR$/assets/img/blue.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/Thumbs.db" afterPath="$PROJECT_DIR$/assets/img/client/New folder/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo1.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo2.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo3.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo4.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo5.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo6.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo7.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/New folder/logo8.png" afterPath="$PROJECT_DIR$/assets/img/client/New folder/logo8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/logo-1.png" afterPath="$PROJECT_DIR$/assets/img/client/logo-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/logo-2.png" afterPath="$PROJECT_DIR$/assets/img/client/logo-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/client/logo-3.png" afterPath="$PROJECT_DIR$/assets/img/client/logo-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/emerland.png" afterPath="$PROJECT_DIR$/assets/img/emerland.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/green.png" afterPath="$PROJECT_DIR$/assets/img/green.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/layout.png" afterPath="$PROJECT_DIR$/assets/img/layout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/marker.png" afterPath="$PROJECT_DIR$/assets/img/marker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/nav-bg.png" afterPath="$PROJECT_DIR$/assets/img/nav-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/orange.PNG" afterPath="$PROJECT_DIR$/assets/img/orange.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/01.png" afterPath="$PROJECT_DIR$/assets/img/overlay/01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/02.png" afterPath="$PROJECT_DIR$/assets/img/overlay/02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/03.png" afterPath="$PROJECT_DIR$/assets/img/overlay/03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/04.png" afterPath="$PROJECT_DIR$/assets/img/overlay/04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/05.png" afterPath="$PROJECT_DIR$/assets/img/overlay/05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/06.png" afterPath="$PROJECT_DIR$/assets/img/overlay/06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/07.png" afterPath="$PROJECT_DIR$/assets/img/overlay/07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/08.png" afterPath="$PROJECT_DIR$/assets/img/overlay/08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/09.png" afterPath="$PROJECT_DIR$/assets/img/overlay/09.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/10.png" afterPath="$PROJECT_DIR$/assets/img/overlay/10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/11.png" afterPath="$PROJECT_DIR$/assets/img/overlay/11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/12.png" afterPath="$PROJECT_DIR$/assets/img/overlay/12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/13.png" afterPath="$PROJECT_DIR$/assets/img/overlay/13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/14.png" afterPath="$PROJECT_DIR$/assets/img/overlay/14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/overlay/bg-promo-pattern.png" afterPath="$PROJECT_DIR$/assets/img/overlay/bg-promo-pattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/peterriver.png" afterPath="$PROJECT_DIR$/assets/img/peterriver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/pink.png" afterPath="$PROJECT_DIR$/assets/img/pink.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/search-icon.png" afterPath="$PROJECT_DIR$/assets/img/search-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/settings.png" afterPath="$PROJECT_DIR$/assets/img/settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/sprite.png" afterPath="$PROJECT_DIR$/assets/img/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/wisteria.png" afterPath="$PROJECT_DIR$/assets/img/wisteria.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/images/event-single.jpg" afterPath="$PROJECT_DIR$/test/images/event-single.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/camera/camera.css" afterPath="$PROJECT_DIR$/assets/css/camera/camera.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/alizarin.css" afterPath="$PROJECT_DIR$/assets/css/colors/alizarin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/blue.css" afterPath="$PROJECT_DIR$/assets/css/colors/blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/emerland.css" afterPath="$PROJECT_DIR$/assets/css/colors/emerland.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/green.css" afterPath="$PROJECT_DIR$/assets/css/colors/green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/orange.css" afterPath="$PROJECT_DIR$/assets/css/colors/orange.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/peterriver.css" afterPath="$PROJECT_DIR$/assets/css/colors/peterriver.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/pink.css" afterPath="$PROJECT_DIR$/assets/css/colors/pink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/colors/wisteria.css" afterPath="$PROJECT_DIR$/assets/css/colors/wisteria.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/cssloader.css" afterPath="$PROJECT_DIR$/assets/css/cssloader.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/demo/color-picker.css" afterPath="$PROJECT_DIR$/assets/css/demo/color-picker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/flexslider/flexslider-2.css" afterPath="$PROJECT_DIR$/assets/css/flexslider/flexslider-2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/flexslider/flexslider.css" afterPath="$PROJECT_DIR$/assets/css/flexslider/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/font-awesome.css" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/grid.css" afterPath="$PROJECT_DIR$/assets/css/grid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/assets/css/prettyPhoto.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/shortcodes.css" afterPath="$PROJECT_DIR$/assets/css/shortcodes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/appear.js" afterPath="$PROJECT_DIR$/assets/js/appear.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/camera/camera.js" afterPath="$PROJECT_DIR$/assets/js/camera/camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/camera/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/assets/js/camera/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/camera/jquery.mobile.customized.min.js" afterPath="$PROJECT_DIR$/assets/js/camera/jquery.mobile.customized.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/demo/color-picker.js" afterPath="$PROJECT_DIR$/assets/js/demo/color-picker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/demo/styleswitcher.js" afterPath="$PROJECT_DIR$/assets/js/demo/styleswitcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/filterable/jquery.quicksand.js" afterPath="$PROJECT_DIR$/assets/js/filterable/jquery.quicksand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/flexslider/flexslider.css" afterPath="$PROJECT_DIR$/assets/js/flexslider/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/flexslider/jquery.flexslider.js" afterPath="$PROJECT_DIR$/assets/js/flexslider/jquery.flexslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/flexslider/main.js" afterPath="$PROJECT_DIR$/assets/js/flexslider/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/gmap/jquery.gmap.min.js" afterPath="$PROJECT_DIR$/assets/js/gmap/jquery.gmap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/gmap/map.js" afterPath="$PROJECT_DIR$/assets/js/gmap/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery-1.10.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-ui.js" afterPath="$PROJECT_DIR$/assets/js/jquery-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.parallax-1.1.3.js" afterPath="$PROJECT_DIR$/assets/js/jquery.parallax-1.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/assets/js/jquery.prettyPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/assets/js/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/navbar/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/assets/js/navbar/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/navbar/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/assets/js/navbar/cbpAnimatedHeader.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/navbar/classie.js" afterPath="$PROJECT_DIR$/assets/js/navbar/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/shortcode.js" afterPath="$PROJECT_DIR$/assets/js/shortcode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.css" afterPath="$PROJECT_DIR$/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/css/shortcode.css" afterPath="$PROJECT_DIR$/test/css/shortcode.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/test/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/style.css" afterPath="$PROJECT_DIR$/test/style.css" />
@@ -31,14 +187,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="191" column="31" lean-forward="true" selection-start-line="191" selection-start-column="31" selection-end-line="191" selection-end-column="31" />
-              <folding>
-                <element signature="e#37549#37555#0" expanded="true" />
-                <element signature="e#37556#37562#0" expanded="true" />
-                <element signature="e#37655#37661#0" expanded="true" />
-                <element signature="e#37808#37814#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="717" column="18" lean-forward="false" selection-start-line="717" selection-start-column="18" selection-end-line="717" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,7 +231,6 @@
               <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,9 +239,12 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="1182" column="17" lean-forward="false" selection-start-line="1182" selection-start-column="17" selection-end-line="1182" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="20808">
+              <caret line="1224" column="21" lean-forward="false" selection-start-line="1224" selection-start-column="21" selection-end-line="1224" selection-end-column="21" />
+              <folding>
+                <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+                <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,8 +252,20 @@
       <file leaf-file-name="shortcode.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/css/shortcode.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="422" column="20" lean-forward="false" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="20" />
+            <state relative-caret-position="47022">
+              <caret line="2766" column="1" lean-forward="false" selection-start-line="2766" selection-start-column="1" selection-end-line="2766" selection-end-column="1" />
+              <folding>
+                <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/libraries/lib.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="22415" lean-forward="false" selection-start-line="25" selection-start-column="22415" selection-end-line="25" selection-end-column="22417" />
               <folding />
             </state>
           </provider>
@@ -130,9 +295,15 @@
       <find>studi</find>
       <find>akadem</find>
       <find>akade</find>
+      <find>ajew</find>
+      <find>padding-right: 15px</find>
+      <find>col-md-9</find>
+      <find>.content-area</find>
+      <find>.col-md-9</find>
     </findStrings>
     <replaceStrings>
       <replace>&amp;nbsp;</replace>
+      <replace>padding-right: 20px</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -146,9 +317,10 @@
         <option value="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test/js/functions.js" />
-        <option value="$PROJECT_DIR$/test/index.html" />
-        <option value="$PROJECT_DIR$/test/css/shortcode.css" />
         <option value="$PROJECT_DIR$/test/style.css" />
+        <option value="$PROJECT_DIR$/test/css/shortcode.css" />
+        <option value="$PROJECT_DIR$/test/libraries/lib.css" />
+        <option value="$PROJECT_DIR$/test/index.html" />
       </list>
     </option>
   </component>
@@ -199,8 +371,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -349,6 +519,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -459,18 +631,20 @@
       <workItem from="1490559385957" duration="108000" />
       <workItem from="1490603520123" duration="9197000" />
       <workItem from="1490646947905" duration="4367000" />
+      <workItem from="1490714219444" duration="5461000" />
+      <workItem from="1490817593400" duration="617000" />
+      <workItem from="1490904223249" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30635000" />
+    <option name="totallyTimeSpent" value="36785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34282807" sideWeight="0.49791667" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2507903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34399223" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -483,6 +657,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34282807" sideWeight="0.49791667" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34587997" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -530,16 +705,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/libraries/Stroke-Gap-Icon/stroke-gap-icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3855">
+          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17730">
+          <caret line="1182" column="17" lean-forward="false" selection-start-line="1182" selection-start-column="17" selection-end-line="1182" selection-end-column="17" />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/css/shortcode.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6330">
+          <caret line="422" column="20" lean-forward="false" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="20" />
+          <folding>
+            <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +782,6 @@
           <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -582,7 +790,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5644">
           <caret line="332" column="62" lean-forward="false" selection-start-line="332" selection-start-column="62" selection-end-line="332" selection-end-column="62" />
-          <folding />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,7 +801,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64175">
           <caret line="3775" column="5" lean-forward="true" selection-start-line="3775" selection-start-column="5" selection-end-line="3775" selection-end-column="5" />
-          <folding />
+          <folding>
+            <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -598,12 +811,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +829,6 @@
           <caret line="112" column="56" lean-forward="false" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -630,7 +837,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17745">
           <caret line="1183" column="18" lean-forward="false" selection-start-line="1183" selection-start-column="18" selection-end-line="1183" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -638,7 +848,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68115">
           <caret line="4541" column="21" lean-forward="false" selection-start-line="4541" selection-start-column="21" selection-end-line="4541" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -646,12 +858,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +876,6 @@
           <caret line="112" column="56" lean-forward="false" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -678,7 +884,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20111">
           <caret line="1183" column="18" lean-forward="false" selection-start-line="1183" selection-start-column="18" selection-end-line="1183" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -686,7 +895,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77197">
           <caret line="4541" column="21" lean-forward="false" selection-start-line="4541" selection-start-column="21" selection-end-line="4541" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,12 +905,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +915,6 @@
           <caret line="112" column="56" lean-forward="false" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -718,7 +923,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19873">
           <caret line="1169" column="22" lean-forward="false" selection-start-line="1169" selection-start-column="22" selection-end-line="1169" selection-end-column="22" />
-          <folding />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -726,12 +934,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +944,6 @@
           <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -750,7 +952,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19873">
           <caret line="1169" column="22" lean-forward="false" selection-start-line="1169" selection-start-column="22" selection-end-line="1169" selection-end-column="22" />
-          <folding />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -884,37 +1089,44 @@
           <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1490643248429" expanded="true" signature="9676:10120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20808">
+          <caret line="1224" column="21" lean-forward="false" selection-start-line="1224" selection-start-column="21" selection-end-line="1224" selection-end-column="21" />
+          <folding>
+            <marker date="1490785098000" expanded="true" signature="24051:24074" ph="{...}" />
+            <marker date="1490785098000" expanded="true" signature="29308:29393" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/css/shortcode.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="422" column="20" lean-forward="false" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="47022">
+          <caret line="2766" column="1" lean-forward="false" selection-start-line="2766" selection-start-column="1" selection-end-line="2766" selection-end-column="1" />
+          <folding>
+            <marker date="1490789840000" expanded="true" signature="92271:92277" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/style.css">
+    <entry file="file://$PROJECT_DIR$/test/libraries/lib.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="1182" column="17" lean-forward="false" selection-start-line="1182" selection-start-column="17" selection-end-line="1182" selection-end-column="17" />
+        <state relative-caret-position="425">
+          <caret line="25" column="22415" lean-forward="false" selection-start-line="25" selection-start-column="22415" selection-end-line="25" selection-end-column="22417" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="191" column="31" lean-forward="true" selection-start-line="191" selection-start-column="31" selection-end-line="191" selection-end-column="31" />
-          <folding>
-            <element signature="e#37549#37555#0" expanded="true" />
-            <element signature="e#37556#37562#0" expanded="true" />
-            <element signature="e#37655#37661#0" expanded="true" />
-            <element signature="e#37808#37814#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="717" column="18" lean-forward="false" selection-start-line="717" selection-start-column="18" selection-end-line="717" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
