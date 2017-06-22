@@ -191,7 +191,7 @@ header { position:relative; z-index: 9999; width:100%; background:#fff; padding:
 
 .overlay { display:block; position:absolute; top:0; background-color:rgba(0, 0, 0, .5); z-index:10; width:100%; height:100%; }
 .overlay2 { display:block; position:absolute; top:0; background-color:rgba(0, 0, 0, .6); z-index:10; width:100%; height:100%; }
-#headline_cycler { display: table; position: absolute; text-align: center; top: 50%; height:140px; margin-top:-70px; width: 100%; z-index:111; }
+#headline_cycler { display: table; position: absolute; text-align: center; top:40%; height:140px; margin-top:-70px; width: 100%; z-index:111; }
 .headline_cycler_centralizer { display: table-cell; vertical-align: middle; }
 #headline_cycler ul.flexslider { display: block; text-align: center; width: 100%; }
 #headline_cycler ul.flexslider > li > h2 { font-size: 60px; line-height: 62px; text-transform: uppercase; color: #fff; font-weight: 700; letter-spacing: 5px; margin-bottom: 8px; margin-left:5px; }
@@ -252,13 +252,69 @@ section.grey .tab { margin-bottom:20px; }
 
 /* =9. Images
 --------------------------------------------------------------------------------------------------------*/
-.images img { width:100%; display: block; max-width: 100% !important; z-index:9; }
-.images { overflow:hidden; position:relative; margin:0 0 20px 0 !important; }
-img { box-shadow: #fff 0 0 0 }
-.images.round img { border:0 none; border-radius:50%; }
-.sliphoveritemTitle { font-size:16px; font-weight:600; line-height:22px; font-family: "Dosis", "Open Sans", Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3.6px; padding-left:3.6px; }
-.sliphoveritemTitle span { font-size:13px; font-style:italic; text-transform:none; font-weight:400; letter-spacing:0; font-family: "Open Sans", Arial, Helvetica, sans-serif; display:block; margin-top:-1px }
-.sliphoveritemTitle div { position:relative; padding-left:5px; }
+.images img { 
+	width:100%; 
+	display: block; 
+	max-width: 100% !important; 
+	z-index:9; 
+}
+
+.images { 
+	overflow:hidden; 
+	position:relative; 
+	margin:0 0 20px 0 !important; 
+}
+
+img { 
+	box-shadow: #fff 0 0 0 
+}
+
+.images.round img { 
+	border:0 none; 
+	border-radius:50%; 
+}
+
+.sliphoveritemTitle { 
+	font-size:16px; 
+	font-weight:600; 
+	line-height:22px; 
+	font-family: "Dosis", "Open Sans", Arial, Helvetica, sans-serif; 
+	text-transform:uppercase; 
+	letter-spacing:3.6px; 
+	padding-left:3.6px; 
+}
+
+.sliphoveritemTitle span { 
+	font-size:13px; 
+	font-style:italic; 
+	text-transform:none; 
+	font-weight:400; 
+	letter-spacing:0; 
+	font-family: "Open Sans", Arial, Helvetica, sans-serif; 
+	display:block; 
+	margin-top:-1px 
+}
+
+.sliphoveritemTitle div { 
+	position:relative; 
+	padding-left:5px; 
+}
+
+#gall h4 {
+	display: inline;
+	cursor: pointer;
+}
+
+#gall li {
+	display: inline;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#gall {
+	margin-bottom: 2%;
+}
+
 /* End Images
 --------------------------------------------------------------------------------------------------------*/
 
@@ -351,7 +407,15 @@ img { box-shadow: #fff 0 0 0 }
 .button.active { font-weight:700; }
 .col1-3 .button { margin:0; margin-bottom:25px; }
 .centralizer > .load_more_btn, .centralizer > .button { width: auto; display: inline-block; margin-left:5px; margin-right:5px; white-space:nowrap }
-.full_width_gallery > .gallery_item { display: block; float: left; margin: 0; width: 100%; height: auto; position: relative; overflow: hidden; }
+.full_width_gallery > .gallery_item {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+}
 .gallery_item.centered_item { float:none; margin:0 auto; }
 .full_width_gallery > .gallery_item > img { display: block; margin: 0; line-height: 0; width: 100%; height: auto; }
 .full_width_gallery > .gallery_item > .gallery_item_text { display: block; position: absolute; width: 100%; height: 100%; left: 0; top: 0; text-align: center; padding: 36% 20px 10px 20px; background-color: rgba(0, 0, 0, 0.5); color: #fff; opacity: 0.0; -webkit-transition: opacity 0.42s ease-in-out 0s, padding 0.42s ease-in-out 0s; -moz-transition: opacity 0.42s ease-in-out 0s, padding 0.42s ease-in-out 0s; transition: opacity 0.42s ease-in-out 0s, padding 0.42s ease-in-out 0s; }

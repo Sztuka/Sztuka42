@@ -250,4 +250,16 @@ $('a.button').on('click', function()
     currentClass: 'active',
 //    scrollOffset: 0
   });
+
+
+
+
+$('#gall').on('click', '.item-filter', function(){
+  var filterMod = $(this).data('filter');
+  $('#gallery .gallery_item').hide();
+  $('#gallery').find('.'+filterMod).show();
+});
+
+
+
   
