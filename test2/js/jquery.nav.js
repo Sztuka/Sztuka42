@@ -254,11 +254,7 @@ $('a.button').on('click', function()
 
 
 
-$('#gall').on('click', '.item-filter', function(){
-  var filterMod = $(this).data('filter');
-  $('#gallery .gallery_item').hide();
-  $('#gallery').find('.'+filterMod).show();
-});
+
 
 
 
