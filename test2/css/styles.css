@@ -481,6 +481,18 @@ img {
 --------------------------------------------------------------------------------------------------------*/
 
 
+.socialowe {
+	margin-left: 1%; 
+	margin-right: 1%;
+}
+
+.socialowe img {
+	height: 50px;
+	
+}
+
+
+
 /* =12. Services
 --------------------------------------------------------------------------------------------------------*/
 .service_box { display: block; text-align: center; margin-top: 14px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); z-index:55; position:relative }
