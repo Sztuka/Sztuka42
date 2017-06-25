@@ -14,3 +14,16 @@ $('#gall li').on('click', function(){
 	$('#gall li').removeClass('acti-filter');
     $(this).addClass('acti-filter');
 });
+
+$( "p" ).each(function() {
+			var $this = $( this );
+				if( $this.html().replace(/\s|&nbsp;/g, '').length == 0) {
+				$this.remove();
+			}
+		});
+$( "h4" ).each(function() {
+			var $this = $( this );
+				if( $this.html().replace(/\s|&nbsp;/g, '').length == 0) {
+				$this.remove();
+			}
+		});
