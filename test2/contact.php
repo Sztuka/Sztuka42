@@ -17,11 +17,11 @@ if(trim($name) == '') {
 
 	exit('<div class="error_message">You must enter your name.</div>');
 
-} else if(trim($name) == 'Your Name') {
+} else if(trim($name) == 'Jak się nazywasz') {
 
 	exit('<div class="error_message">You must enter your name.</div>');
 
-} else if(trim($email) == 'Email') {
+} else if(trim($email) == 'Twój adres e-mail') {
 
 	exit('<div class="error_message">Please enter a valid email address.</div>');
 
@@ -29,7 +29,7 @@ if(trim($name) == '') {
 
 	exit('<div class="error_message">You have entered an invalid e-mail address.</div>');
 
-} else if(trim($comments) == 'Tell us what you think!') {
+} else if(trim($comments) == 'Napisz co chcesz mi powiedzieć?') {
 
 	exit('<div class="error_message">Please enter your message.</div>');
 
@@ -49,7 +49,7 @@ if(trim($name) == '') {
 
 
 
-$address = 'hello@email.com';
+$address = 'kontakt@sztuka42.pl';
 
 
 

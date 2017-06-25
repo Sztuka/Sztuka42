@@ -239,7 +239,7 @@ function HeadlineHandler(){
         $this.addClass('active')
       }
     });
-  
+  	  
     $('#quotes_slider_container').flexslider({
       selector: '.flexslider > .quote_slide',
       animation: 'slide',
